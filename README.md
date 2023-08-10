@@ -6,7 +6,7 @@ New Facebook cloning tool
  pkg upgrade
  pkg install python
  pkg install git
- https://github.com/Toxic-Boy-Cyber/SK-Free
+ git clone https://github.com/Toxic-Boy-Cyber/SK-Free
 ```
 #### RUN 
 ```
